@@ -54,7 +54,7 @@ const Services = () => {
           </div>
           <div className="col-sm-6 m-15px-tb">
             <div className="feature-box-01 media">
-              <i className="icon theme-bg ti-pencil" />
+              <i className="icon theme-bg ti-write" />
               <div className="feature-content media-body">
                 <h5>English</h5>
                 <p>

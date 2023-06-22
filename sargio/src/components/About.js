@@ -265,8 +265,8 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
+                  <h6>Tutor</h6>
+                  <label>LLC | Remote | Jan 2019 - Present</label>
                   <div className="rb-time">Full Time</div>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
