@@ -69,7 +69,7 @@ const Portfolio = () => {
               onClick={handleFilterKeyChange("fashion")}
               data-filter=".fashion"
             >
-              Planning/Prep
+              Evaluations
             </li>
             <li
               className={`c-pointer ${activeBtn("product")}`}
@@ -210,11 +210,18 @@ const Portfolio = () => {
               </div>
               <div className="portfolio-img">
                 <img src="static/img/m-portfolio-7.jpg" title="" alt="" />
+
                 <div className="portfolio-icon">
                   <a
                     href="static/img/m-portfolio-7.jpg"
                     className="gallery-link"
                   >
+                    <embed
+                      src="static/img/nettie_parks_evaluations.pdf"
+                      width="500"
+                      height="600"
+                      type="application/pdf"
+                    />
                     <span className="ti-plus" />
                   </a>
                 </div>

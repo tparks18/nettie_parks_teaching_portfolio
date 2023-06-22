@@ -46,12 +46,6 @@ const Header = ({ blog }) => {
           {blog ? <MenuWithBlog /> : <MenuWithOutBlog />}
         </div>
         <div className="nav justify-content-center social-icons">
-          {/* <a href="#">
-            <i className="fab fa-facebook-f" />
-          </a>
-          <a href="#">
-            <i className="fab fa-twitter" />
-          </a> */}
           <a href="https://heytutor.com/tutors/info/IL/Chicago/ID28074-Nettie-Parks/">
             <i className="fas fa-graduation-cap" />
           </a>
@@ -90,6 +84,12 @@ const MenuWithOutBlog = () => {
         <a className="nav-link" href="#work">
           <i className="ti-bookmark-alt" />
           <span>Portfolio</span>
+        </a>
+      </li>
+      <li data-menuanchor="blog" className="blog">
+        <a className="nav-link" href="#blog">
+          <i className="ti-layout-media-overlay-alt-2" />
+          <span>Blogs</span>
         </a>
       </li>
       <li data-menuanchor="contactus">
@@ -141,6 +141,14 @@ const MenuWithBlog = () => {
             <a className="nav-link">
               <i className="ti-bookmark-alt" />
               <span>Portfolio</span>
+            </a>
+          </Link>
+        </li>
+        <li data-menuanchor="blog" className="blog active">
+          <Link href="/#blog">
+            <a className="nav-link">
+              <i className="ti-layout-media-overlay-alt-2" />
+              <span>Blogs</span>
             </a>
           </Link>
         </li>
