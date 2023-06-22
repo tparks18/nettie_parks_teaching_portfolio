@@ -18,7 +18,7 @@ const Services = () => {
         <div className="row">
           <div className="col-sm-6 m-15px-tb">
             <div className="feature-box-01 media">
-              <i className="icon theme-bg icon-mobile" />
+              <i className="icon theme-bg ti-stats-up" />
               <div className="feature-content media-body">
                 <h5>Math</h5>
                 <p>
@@ -30,9 +30,9 @@ const Services = () => {
           </div>
           <div className="col-sm-6 m-15px-tb">
             <div className="feature-box-01 media">
-              <i className="icon theme-bg icon-desktop" />
+              <i className="icon theme-bg ti-book" />
               <div className="feature-content media-body">
-                <h5>Test Preparation</h5>
+                <h5>Regular Test Preparation</h5>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -42,9 +42,9 @@ const Services = () => {
           </div>
           <div className="col-sm-6 m-15px-tb">
             <div className="feature-box-01 media">
-              <i className="icon theme-bg icon-target" />
+              <i className="icon theme-bg ti-flag" />
               <div className="feature-content media-body">
-                <h5>ACT</h5>
+                <h5>ACT Preparation</h5>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -54,7 +54,7 @@ const Services = () => {
           </div>
           <div className="col-sm-6 m-15px-tb">
             <div className="feature-box-01 media">
-              <i className="icon theme-bg icon-mobile" />
+              <i className="icon theme-bg ti-pencil" />
               <div className="feature-content media-body">
                 <h5>English</h5>
                 <p>
@@ -66,7 +66,7 @@ const Services = () => {
           </div>
           <div className="col-sm-6 m-15px-tb">
             <div className="feature-box-01 media">
-              <i className="icon theme-bg icon-desktop" />
+              <i className="icon theme-bg ti-rocket" />
               <div className="feature-content media-body">
                 <h5>Science</h5>
                 <p>
@@ -78,7 +78,7 @@ const Services = () => {
           </div>
           <div className="col-sm-6 m-15px-tb">
             <div className="feature-box-01 media">
-              <i className="icon theme-bg icon-target" />
+              <i className="icon theme-bg ti-world" />
               <div className="feature-content media-body">
                 <h5>Social Studies</h5>
                 <p>
