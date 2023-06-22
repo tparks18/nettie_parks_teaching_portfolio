@@ -1,51 +1,6 @@
-import emailjs from "emailjs-com";
-import { useState } from "react";
+
 const Contact = () => {
-  const [mailData, setMailData] = useState({
-    name: "",
-    email: "",
-    subject: "",
-    message: "",
-  });
-  const { name, email, message, subject } = mailData;
-  const [error, setError] = useState(null);
-  const onChange = (e) =>
-    setMailData({ ...mailData, [e.target.name]: e.target.value });
-  const onSubmit = (e) => {
-    e.preventDefault();
-    if (
-      name.length === 0 ||
-      email.length === 0 ||
-      message.length === 0 ||
-      subject.length === 0
-    ) {
-      setError(true);
-      clearError();
-    } else {
-      emailjs
-        .send(
-          "service_seruhwu", // service id
-          "template_21aw58z", // template id
-          mailData,
-          "Q3pccdLZhU-mZT7tQ" // public api
-        )
-        .then(
-          (response) => {
-            setError(false);
-            clearError();
-            setMailData({ name: "", email: "", message: "", subject: "" });
-          },
-          (err) => {
-            console.log(err.text);
-          }
-        );
-    }
-  };
-  const clearError = () => {
-    setTimeout(() => {
-      setError(null);
-    }, 2000);
-  };
+
   return (
     <section
       id="contactus"
@@ -64,7 +19,7 @@ const Contact = () => {
               <ul>
                 <li className="media">
                   <i className="ti-map" />
-                  <span className="media-body">Chicago, IL.</span>
+                  <span className="media-body">Chicago, IL</span>
                 </li>
                 <li className="media">
                   <i className="ti-email" />
