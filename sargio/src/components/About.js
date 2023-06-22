@@ -151,7 +151,11 @@ const About = () => {
             <div className="row">
               <div className="col-sm-3 col-md-3 col-xl-2">
                 <div className="rb-left">
-                  <img src="static/img/waltdisneylogo.png" title="" alt="" />
+                  <img
+                    src="static/img/walt_disney_logo_square.png"
+                    title=""
+                    alt=""
+                  />
                 </div>
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
