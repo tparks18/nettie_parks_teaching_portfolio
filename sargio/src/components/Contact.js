@@ -59,26 +59,25 @@ const Contact = () => {
         <div className="row">
           <div className="col-lg-5 col-xl-4 m-15px-tb">
             <div className="contact-info">
-              <h4>What’s your story? Get in touch</h4>
+              <h4>I would love to help you! Get in touch</h4>
               <p>
-                Always available for freelancing if the right project comes
-                along, Feel free to contact me.
+                Always available for tutoring. Feel free to contact me.
               </p>
               <ul>
                 <li className="media">
                   <i className="ti-map" />
                   <span className="media-body">
-                    123 Stree New York City , United States Of America 750065.
+                    Chicago, IL.
                   </span>
                 </li>
                 <li className="media">
                   <i className="ti-email" />
                   <span className="media-body">support@domain.com</span>
                 </li>
-                <li className="media">
+                {/* <li className="media">
                   <i className="ti-mobile" />
                   <span className="media-body">+044 9696 9696 3636</span>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>

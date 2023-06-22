@@ -162,7 +162,7 @@ const About = () => {
                 <div className="rb-right">
                   <h6>Third Grade Teacher</h6>
                   <label>
-                    Walt Disney Magnet | Chicago, IL | Aug 1996 - Present
+                    Walt Disney Magnet School | Chicago, IL | Aug 1996 - Present
                   </label>
                   <div className="rb-time">Full Time</div>
                   <p>
@@ -217,44 +217,41 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
+                  <h6>
+                    Third Grade Teacher, Pre-K Teacher, Kindergarten Teacher
+                  </h6>
+                  <label>
+                    Our Lady of Peace School | Chicago, IL | Sep 1989 - Jun 1996
+                  </label>
                   <div className="rb-time">Full Time</div>
                   <p>
-                    • Aligned and delivered differentiated lessons in
-                    Reading/English Language Arts, Math, Science, and Social
-                    Studies, incorporating Illinois Standards/Common Core and
-                    Harcourt materials to 30 students.
+                    • Utilized multiple teaching methods that included visual,
+                    kinesthetic, and auditory materials to reinforce concepts.
                   </p>
-                  <ul>
-                    • Designed and implemented multi-level mini units across
-                    subjects, fostering comprehensive learning experiences.
-                  </ul>
-                  <ul>
-                    • Developed Interactive Bulletin Boards to promote student
-                    engagement and enhance content comprehension.
-                  </ul>
-                  <ul>
-                    • Cultivated an inclusive and technology-integrated
-                    classroom environment, catering to diverse learner needs.
-                  </ul>
-                  <ul>
-                    • Prepared students for benchmark NWEA/MAP Spring
-                    assessment, achieving exceptional growth and exceeding
-                    projected goals by 30-40%.
-                  </ul>
-                  <ul>
-                    • Successfully transitioned to remote learning from March
-                    2020 to the present, effectively delivering lessons and
-                    providing support via Google Meets, Google Classroom, and
-                    online platforms.
-                  </ul>
-                  <ul>
-                    • Utilized various communication channels, including the
-                    classroom website, Classroom DOJO, and regular
-                    parent-teacher conferences, to ensure collaborative success
-                    and engagement with parents.
-                  </ul>
+                  <p>
+                    • Developed and implemented lesson plans in all subject
+                    areas, including the tenets of Catholicism.
+                  </p>
+                  <p>
+                    • Created thematic units and planned/organized field trips
+                    to expand on these units.
+                  </p>
+                  <p>
+                    • Taught lessons that included cooperative grouping, guided
+                    reading, and socio-emotional learning.
+                  </p>
+                  <p>
+                    • Prepared authentic assessments and performance based tasks
+                    for students to evaluate learning.
+                  </p>
+                  <p>
+                    • Communicated with parents to acknowledge superior work and
+                    areas of concern through weekly newsletters, and encourage
+                    parent-volunteer assistance throughout the year.
+                  </p>
+                  <p>
+                    • Organized and planned Kindergarten graduation
+                  </p>
                 </div>
               </div>
             </div>
