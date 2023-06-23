@@ -36,11 +36,11 @@ const Header = ({ blog }) => {
       >
         <div className="scroll-bar">
           <div className="hl-top">
-            <div className="hl-logo">
+            <div className="hl-AClogo">
               <div className="img">
                 <img src="static/img/nettie-picture.jpg" title="" alt="" />
               </div>
-              <h5>Nettie Parks</h5>
+              <h5>Nettie Parks Master of Education</h5>
             </div>
           </div>
           {blog ? <MenuWithBlog /> : <MenuWithOutBlog />}

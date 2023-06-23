@@ -9,7 +9,7 @@ const Blog = () => {
     >
       <div className="container">
         <div className="title">
-          <h3>Latest Blog.</h3>
+          <h3>Documents</h3>
         </div>
         <div className="row">
           <div className="col-md-6 m-15px-tb">

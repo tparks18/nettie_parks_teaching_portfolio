@@ -32,14 +32,14 @@ const About = () => {
               <div className="about-text">
                 <h3>{`I'm`} an educator with over 30 years of experience. </h3>
                 <p>
-                  I'm a passionate and dedicated educator with over 30 years of
+                  I am a passionate and dedicated educator with over 30 years of
                   experience, committed to shaping young minds and empowering
-                  students to reach their full potential. Firm believer in the
+                  students to reach their full potential. I am a firm believer in the
                   power of a growth mindset, fostering resilience and embracing
-                  challenges as opportunities for growth. Skilled in teaching
+                  challenges as opportunities for growth. I am skilled in teaching
                   effective strategies for critical thinking, independent
                   learning, and subject mastery, while promoting confidence and
-                  fluency in reading and writing. Committed to creating a
+                  fluency in reading and writing. I am committed to creating a
                   supportive and inclusive learning environment where students
                   thrive and exceed expectations.
                 </p>
@@ -53,7 +53,7 @@ const About = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="col-auto">
+                  {/* <div className="col-auto">
                     <div className="media align-items-center">
                       <span className="count">3k</span>
                       <div className="media-body">
@@ -61,7 +61,7 @@ const About = () => {
                         Clients.
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="btn-bar">
                   <a className="px-btn px-btn-theme" href="#contactus">
