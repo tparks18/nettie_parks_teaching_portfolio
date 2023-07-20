@@ -22,8 +22,7 @@ const Services = () => {
               <div className="feature-content media-body">
                 <h5>Math</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Common Core Math, Number Sence, Problem Solving, Interpreting Data, Fractions and Decimals, Geomtry
                 </p>
               </div>
             </div>
@@ -34,8 +33,7 @@ const Services = () => {
               <div className="feature-content media-body">
                 <h5>Regular Test Preparation</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Study skills, strategies to prepare for reading and math tests
                 </p>
               </div>
             </div>
@@ -58,8 +56,7 @@ const Services = () => {
               <div className="feature-content media-body">
                 <h5>English</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Literature, Informational Text, Grammar, Foundational Skills, Reading-Fluency and Comprehension, Writing
                 </p>
               </div>
             </div>
@@ -70,8 +67,7 @@ const Services = () => {
               <div className="feature-content media-body">
                 <h5>Science</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Forces, Life Science, Environments and Survival, Weather and Climate
                 </p>
               </div>
             </div>
@@ -82,8 +78,7 @@ const Services = () => {
               <div className="feature-content media-body">
                 <h5>Social Studies</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Evaluating Sources and Using Evidence, Civic and Political Institutions, Geography
                 </p>
               </div>
             </div>
