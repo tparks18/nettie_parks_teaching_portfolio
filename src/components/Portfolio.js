@@ -1,5 +1,6 @@
 import Isotope from "isotope-layout";
 import { useEffect, useRef, useState } from "react";
+import Image from "next/image";
 const Portfolio = () => {
   // Isotope
   const isotope = useRef();
@@ -89,7 +90,7 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-1.jpg" title="" alt="" />
+                <Image src="static/img/m-portfolio-1.jpg" title="" alt="" />
                 <div className="portfolio-icon">
                   <a
                     href="static/img/m-portfolio-1.jpg"
@@ -109,7 +110,7 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-2.jpg" title="" alt="" />
+                <Image src="static/img/m-portfolio-2.jpg" title="" alt="" />
                 <div className="portfolio-icon">
                   <a
                     href="static/img/m-portfolio-2.jpg"
@@ -129,7 +130,7 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-3.jpg" title="" alt="" />
+                <Image src="static/img/m-portfolio-3.jpg" title="" alt="" />
                 <div className="portfolio-icon">
                   <a
                     href="static/img/m-portfolio-3.jpg"
@@ -149,7 +150,7 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-5.jpg" title="" alt="" />
+                <Image src="static/img/m-portfolio-5.jpg" title="" alt="" />
                 <div className="portfolio-icon">
                   <a
                     href="static/img/m-portfolio-5.jpg"
@@ -169,7 +170,7 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-4.jpg" title="" alt="" />
+                <Image src="static/img/m-portfolio-4.jpg" title="" alt="" />
                 <div className="portfolio-icon">
                   <a
                     href="static/img/m-portfolio-4.jpg"
@@ -189,7 +190,7 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-6.jpg" title="" alt="" />
+                <Image src="static/img/m-portfolio-6.jpg" title="" alt="" />
                 <div className="portfolio-icon">
                   <a
                     href="static/img/m-portfolio-6.jpg"
@@ -209,7 +210,7 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-7.jpg" title="" alt="" />
+                <Image src="static/img/m-portfolio-7.jpg" title="" alt="" />
 
                 <div className="portfolio-icon">
                   <a
@@ -236,7 +237,7 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-8.jpg" title="" alt="" />
+                <Image src="static/img/m-portfolio-8.jpg" title="" alt="" />
                 <div className="portfolio-icon">
                   <a
                     href="static/img/m-portfolio-8.jpg"
@@ -256,7 +257,7 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-9.jpg" title="" alt="" />
+                <Image src="static/img/m-portfolio-9.jpg" title="" alt="" />
                 <div className="portfolio-icon">
                   <a
                     href="static/img/m-portfolio-9.jpg"
