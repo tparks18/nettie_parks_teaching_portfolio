@@ -3,6 +3,14 @@
 @import "swiper/css/pagination";
 @import "swiper/css/scrollbar";
 @import "swiper/css/effect-fade";
+@import url("/static/plugin/bootstrap/css/bootstrap.min.css");
+@import url("/static/plugin/font-awesome/css/all.min.css");
+@import url("/static/plugin/et-line/style.css");
+@import url("/static/plugin/themify-icons/themify-icons.css");
+@import url("/static/plugin/owl-carousel/css/owl.carousel.min.css");
+@import url("/static/plugin/magnific/magnific-popup.css");
+@import url("/static/plugin/scroll/jquery.mCustomScrollbar.min.css");
+@import url("/static/css/style.css");
 
 html {
   scroll-behavior: smooth;

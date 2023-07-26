@@ -17,8 +17,8 @@ function MyApp({ Component, pageProps }) {
         <title>Nettie Parks Portfolio</title>
         {/* <!-- Favicon --> */}
 
-        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-        {/* <!-- plugin CSS --> */}
+        {/* <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <!-- plugin CSS -->
         <link
           href="static/plugin/bootstrap/css/bootstrap.min.css"
           rel="stylesheet"
@@ -44,8 +44,8 @@ function MyApp({ Component, pageProps }) {
           href="static/plugin/scroll/jquery.mCustomScrollbar.min.css"
           rel="stylesheet"
         />
-        {/* <!-- theme css --> */}
-        <link href="static/css/style.css" rel="stylesheet" />
+        <!-- theme css -->
+        <link href="static/css/style.css" rel="stylesheet" /> */}
 
         <link
           href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap"

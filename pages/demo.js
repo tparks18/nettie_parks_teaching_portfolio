@@ -1,13 +1,16 @@
 import Head from "next/head";
 import Link from "next/link";
+import Image from "next/image";
 import { Fragment } from "react";
+// import styles from "../public/demo/css/style.css";
+import "../public/demo/css/style.css";
 
 const Demo = () => {
   return (
     <Fragment>
-      <Head>
+      {/* <Head>
         <link rel="stylesheet" href="demo/css/style.css" />
-      </Head>
+      </Head> */}
       <main>
         <section id="home" className="section dark-bg">
           <div className="container">
@@ -38,7 +41,7 @@ const Demo = () => {
                   <Link href="/">
                     <a target="_blank">
                       <div className="product-img">
-                        <img src="demo/img/dark.jpg" title="" alt="" />
+                        <Image src="/demo/img/dark.jpg" title="" alt="" />
                       </div>
                       <div className="product-info">
                         <h2>Home Default</h2>
@@ -53,7 +56,7 @@ const Demo = () => {
                   <Link href="/index-glitch">
                     <a target="_blank">
                       <div className="product-img">
-                        <img src="demo/img/dark-glitch.jpg" title="" alt="" />
+                        <Image src="/demo/img/dark-glitch.jpg" title="" alt="" />
                       </div>
                       <div className="product-info">
                         <h2>Home Glitch</h2>
@@ -68,8 +71,8 @@ const Demo = () => {
                   <Link href="/index-particles">
                     <a target="_blank">
                       <div className="product-img">
-                        <img
-                          src="demo/img/dark-particles.jpg"
+                        <Image
+                          src="/demo/img/dark-particles.jpg"
                           title=""
                           alt=""
                         />
@@ -102,7 +105,7 @@ const Demo = () => {
                   <Link href="/blog">
                     <a target="_blank">
                       <div className="product-img">
-                        <img src="demo/img/dark-blog.jpg" title="" alt="" />
+                        <Image src="/demo/img/dark-blog.jpg" title="" alt="" />
                       </div>
                       <div className="product-info">
                         <h2>Blog List</h2>
@@ -117,8 +120,8 @@ const Demo = () => {
                   <Link href="/single-blog">
                     <a target="_blank">
                       <div className="product-img">
-                        <img
-                          src="demo/img/dark-blog-single.jpg"
+                        <Image
+                          src="/demo/img/dark-blog-single.jpg"
                           title=""
                           alt=""
                         />
