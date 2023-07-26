@@ -5,6 +5,7 @@ import Contact from "../src/components/Contact";
 import Services from "../src/components/Services";
 import TypingAnimation from "../src/components/TypingAnimation";
 import Layout from "../src/layout/Layout";
+import Image from "next/image";
 const Portfolio = dynamic(() => import("../src/components/Portfolio"), {
   ssr: false,
 });
@@ -40,7 +41,13 @@ const Index = () => {
               </div>
               <div className="col-lg-6">
                 <div className="hb-img">
-                  <img src="static/img/teacher-glow-icon.png" title="" alt="" />
+                  <Image
+                    src="/static/img/teacher-glow-icon.png"
+                    title=""
+                    alt=""
+                    width={800}
+                    height={800}
+                  />
                 </div>
               </div>
             </div>

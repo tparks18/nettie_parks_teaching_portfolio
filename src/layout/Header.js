@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Fragment, useEffect, useState } from "react";
 import { activeSection } from "../utilits";
+import Image from "next/image";
 const Header = ({ blog }) => {
   const [sideBarToggle, setSideBarToggle] = useState(false);
   useEffect(() => {
@@ -38,7 +39,13 @@ const Header = ({ blog }) => {
           <div className="hl-top">
             <div className="hl-AClogo">
               <div className="img">
-                <img src="static/img/nettie-picture.jpg" title="" alt="" />
+                <Image
+                  src="/static/img/nettie-picture.jpg"
+                  title=""
+                  alt=""
+                  width={100}
+                  height={100}
+                />
               </div>
               <h5>Nettie Parks Master of Education</h5>
             </div>

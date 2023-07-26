@@ -1,3 +1,4 @@
+import Image from "next/image";
 const About = () => {
   return (
     <section
@@ -11,14 +12,12 @@ const About = () => {
             <div className="about-me">
               <div className="img">
                 <div className="img-in">
-                  <img
-                    src="static/img/student-glow-icon.png"
+                  <Image
+                    src="/static/img/student-glow-icon.png"
                     title=""
                     alt=""
-                    style={{
-                      width: "800px",
-                      height: "800px",
-                    }}
+                    width={800}
+                    height={800}
                   />
                 </div>
               </div>

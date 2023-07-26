@@ -1,4 +1,5 @@
 import { Fragment } from "react";
+import Image from "next/image";
 import SwiperCore, {
   Autoplay,
   EffectFade,
@@ -34,7 +35,13 @@ const Testimonials = () => {
       <Swiper {...props}>
         <SwiperSlide className="testimonial-01 media">
           <div className="avatar">
-            <img src="static/img/parent.png" title="" alt="" />
+            <Image
+              src="/static/img/parent.png"
+              title=""
+              alt=""
+              width={499}
+              height={518}
+            />
           </div>
           <div className="media-body">
             <p>
@@ -60,7 +67,13 @@ const Testimonials = () => {
         </SwiperSlide>
         <SwiperSlide className="testimonial-01 media">
           <div className="avatar">
-            <img src="static/img/parent.png" title="" alt="" />
+            <Image
+              src="/static/img/parent.png"
+              title=""
+              alt=""
+              width={499}
+              height={518}
+            />
           </div>
           <div className="media-body">
             <p>
@@ -74,7 +87,13 @@ const Testimonials = () => {
         </SwiperSlide>
         <SwiperSlide className="testimonial-01 media">
           <div className="avatar">
-            <img src="static/img/parent.png" title="" alt="" />
+            <Image
+              src="/static/img/parent.png"
+              title=""
+              alt=""
+              width={499}
+              height={518}
+            />
           </div>
           <div className="media-body">
             <p>
@@ -88,7 +107,13 @@ const Testimonials = () => {
         </SwiperSlide>
         <SwiperSlide className="testimonial-01 media">
           <div className="avatar">
-            <img src="static/img/studenticon.png" title="" alt="" />
+            <Image
+              src="/static/img/studenticon.png"
+              title=""
+              alt=""
+              width={443}
+              height={478}
+            />
           </div>
           <div className="media-body">
             <p>
@@ -101,7 +126,13 @@ const Testimonials = () => {
         </SwiperSlide>
         <SwiperSlide className="testimonial-01 media">
           <div className="avatar">
-            <img src="static/img/studenticon.png" title="" alt="" />
+            <Image
+              src="/static/img/studenticon.png"
+              title=""
+              alt=""
+              width={443}
+              height={478}
+            />
           </div>
           <div className="media-body">
             <p>
@@ -115,7 +146,13 @@ const Testimonials = () => {
         </SwiperSlide>
         <SwiperSlide className="testimonial-01 media">
           <div className="avatar">
-            <img src="static/img/studenticon.png" title="" alt="" />
+            <Image
+              src="/static/img/studenticon.png"
+              title=""
+              alt=""
+              width={443}
+              height={478}
+            />
           </div>
           <div className="media-body">
             <p>
@@ -129,11 +166,24 @@ const Testimonials = () => {
         </SwiperSlide>
         <SwiperSlide className="testimonial-01 media">
           <div className="avatar">
-            <img src="static/img/studenticon.png" title="" alt="" />
+            <Image
+              src="/static/img/studenticon.png"
+              title=""
+              alt=""
+              width={443}
+              height={478}
+            />
           </div>
           <div className="media-body">
             <p>
-              For teacher appreciation week I chose to write about Ms. Parks because I had the funnest and best time with her as my teacher. When she was my teacher, I felt like she was family. She is the best teacher and my favorite teacher. When she was my teacher, I wanted to live at school to see and talk to her everyday because of how kind and amazing she is. Whenever she walks in a room, she brings so many people joy. She is the best teacher anyone could ask for.ç
+              For teacher appreciation week I chose to write about Ms. Parks
+              because I had the funnest and best time with her as my teacher.
+              When she was my teacher, I felt like she was family. She is the
+              best teacher and my favorite teacher. When she was my teacher, I
+              wanted to live at school to see and talk to her everyday because
+              of how kind and amazing she is. Whenever she walks in a room, she
+              brings so many people joy. She is the best teacher anyone could
+              ask for.
             </p>
             <h6>Barbara</h6>
             <span>Former student and tutee</span>
