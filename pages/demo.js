@@ -2,8 +2,7 @@ import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
 import { Fragment } from "react";
-// import styles from "../public/demo/css/style.css";
-import "../public/demo/css/style.css";
+// import "../public/demo/css/style.css";
 
 const Demo = () => {
   return (
