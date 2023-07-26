@@ -45,21 +45,21 @@ const Testimonials = () => {
           </div>
           <div className="media-body">
             <p>
-              My daughter Amy is in Ms. Parks' 3rd grade class. She is a
+              My daughter Amy is in Ms. Parks&apos 3rd grade class. She is a
               fabulous teacher. This review is long overdue as she was
-              Julia's(my other daughter) teacher two years ago. She remains
-              Julia's favorite teacher to this day. But two years ago, all we
-              heard about is what a great teacher Mrs. Parks is. With online
+              Julia&aposs(my other daughter) teacher two years ago. She remains
+              Julia&aposs favorite teacher to this day. But two years ago, all
+              we heard about is what a great teacher Mrs. Parks is. With online
               school, I was able to see more of what Julia has been bragging
               about her. I do not know when Ms. Parks sleeps. She is so thorough
               with every assignment for Amy and to imagine she does that for all
               her students is uneblievable. She explains everything so well and
               she makes the lessons so interesting that I find myself learning
               too! From US History, to Geography, and so much more. She went out
-              of her way to have a meeting with me to talk about Amy's progress
-              and spent 45 minutes with me! I just don't have enough words to
-              truly describe what an incredible teacher she is! I thank her for
-              all that she does.
+              of her way to have a meeting with me to talk about Amy&aposs
+              progress and spent 45 minutes with me! I just don&apost have
+              enough words to truly describe what an incredible teacher she is!
+              I thank her for all that she does.
             </p>
             <h6>Allison</h6>
             <span>Parent</span>
