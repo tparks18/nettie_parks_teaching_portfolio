@@ -31,11 +31,11 @@ const Index = () => {
                     lives with over 30 years of experience, fostering growth,
                     resilience, and success.
                   </p>
-                  <div className="btn-bar">
+                  {/* <div className="btn-bar">
                     <a className="px-btn px-btn-theme" href="#">
                       Donwload CV
                     </a>
-                  </div>
+                  </div> */}
                 </div>
               </div>
               <div className="col-lg-6">
@@ -55,10 +55,10 @@ const Index = () => {
       <Services />
       {/* End Services */}
       {/* Portfolio */}
-      <Portfolio />
+      {/* <Portfolio /> */}
       {/* End Portfolio */}
       {/* Blog */}
-      <Blog />
+      {/* <Blog /> */}
       {/* End Blog */}
       {/* Contact us */}
       <Contact />

@@ -22,7 +22,7 @@ const Services = () => {
               <div className="feature-content media-body">
                 <h5>Math</h5>
                 <p>
-                  Common Core Math, Number Sence, Problem Solving, Interpreting Data, Fractions and Decimals, Geomtry
+                  Common Core Math, Number Sense, Problem Solving, Interpreting Data, Fractions and Decimals, Geomtry
                 </p>
               </div>
             </div>
@@ -44,8 +44,7 @@ const Services = () => {
               <div className="feature-content media-body">
                 <h5>Writing</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  I can assist students with writing complete sentences and using correct mechanics such as capitalization, puncation, spelling, and grammar. Additionally, I can help them with structuring essays in paragraphs and teaching narrative, expository, and persuasive writing.
                 </p>
               </div>
             </div>

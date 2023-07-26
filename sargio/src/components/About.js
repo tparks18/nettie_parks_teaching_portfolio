@@ -32,16 +32,16 @@ const About = () => {
               <div className="about-text">
                 <h3>{`I'm`} an educator with over 30 years of experience. </h3>
                 <p>
-                  I am a passionate and dedicated educator with over 30 years of
-                  experience, committed to shaping young minds and empowering
-                  students to reach their full potential. I am a firm believer in the
-                  power of a growth mindset, fostering resilience and embracing
-                  challenges as opportunities for growth. I am skilled in teaching
-                  effective strategies for critical thinking, independent
-                  learning, and subject mastery, while promoting confidence and
-                  fluency in reading and writing. I am committed to creating a
-                  supportive and inclusive learning environment where students
-                  thrive and exceed expectations.
+                  I am a passionate and dedicated teacher committed to shaping
+                  young minds and empowering students to reach their full
+                  potential. I am a firm believer in the power of a growth
+                  mindset, fostering resilience and embracing challenges as
+                  opportunities for growth. I am skilled in teaching effective
+                  strategies for critical thinking, independent learning, and
+                  subject mastery, while promoting confidence and fluency in
+                  reading and writing. I am committed to creating a supportive
+                  and inclusive learning environment where students thrive and
+                  exceed expectations.
                 </p>
                 <div className="row">
                   <div className="col-auto">
@@ -143,10 +143,10 @@ const About = () => {
           </div>
         </div>
         <div className="separated" />
-        <div className="title">
+        {/* <div className="title">
           <h3>Experience.</h3>
-        </div>
-        <div className="resume-box">
+        </div> */}
+        {/* <div className="resume-box">
           <div className="resume-row">
             <div className="row">
               <div className="col-sm-3 col-md-3 col-xl-2">
@@ -249,9 +249,7 @@ const About = () => {
                     areas of concern through weekly newsletters, and encourage
                     parent-volunteer assistance throughout the year.
                   </p>
-                  <p>
-                    • Organized and planned Kindergarten graduation
-                  </p>
+                  <p>• Organized and planned Kindergarten graduation</p>
                 </div>
               </div>
             </div>
@@ -279,7 +277,7 @@ const About = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );

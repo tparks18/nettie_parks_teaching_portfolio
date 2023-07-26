@@ -80,7 +80,7 @@ const MenuWithOutBlog = () => {
           <span>Services</span>
         </a>
       </li>
-      <li data-menuanchor="work">
+      {/* <li data-menuanchor="work">
         <a className="nav-link" href="#work">
           <i className="ti-bookmark-alt" />
           <span>Portfolio</span>
@@ -91,7 +91,7 @@ const MenuWithOutBlog = () => {
           <i className="ti-layout-media-overlay-alt-2" />
           <span>Blogs</span>
         </a>
-      </li>
+      </li> */}
       <li data-menuanchor="contactus">
         <a className="nav-link" href="#contactus">
           <i className="ti-map-alt" />
