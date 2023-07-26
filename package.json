@@ -2,13 +2,10 @@
   "name": "sergio-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tparks18.github.io/nettie_parks_teaching_portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
     "sass": "node-sass --watch public/static/scss/style.scss public/assets/css/style.css --source-map public/static/css/style.css.map",
     "lint": "next lint"
   },
