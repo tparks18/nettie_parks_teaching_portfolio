@@ -97,46 +97,63 @@ const About = () => {
             <div className="skills-box">
               <h3>My skills</h3>
               <p>
-                {`I'm`} a Freelancer Front-end Developer with over 3 years of
-                experience. I code and create web elements for amazing people
-                around the world. I like work with new people. New people new
-                Experiences.
+                As a skilled educator, I can guide students in honing their
+                writing skills, including sentence construction, grammar,
+                punctuation, and proper mechanics. Additionally, I am proficient
+                in coaching them on crafting well-structured essays across
+                various writing styles, such as narrative, expository, and
+                persuasive. My expertise extends to empowering students with
+                valuable study strategies and preparing them for reading and
+                math assessments. In mathematics, I am well-versed in Common
+                Core Math, Number Sense, Problem Solving, Interpreting Data,
+                Fractions, Decimals, and Geometry.
               </p>
-              <div className="skill-lt">
+              <p>
+                Moreover, I have a proven track record of helping students excel
+                in Literature, Informational Text, Grammar, Foundational Skills,
+                Reading-Fluency, and Comprehension. In science education, I have
+                successfully aided students in understanding Forces, Life
+                Science, Environments and Survival, Weather, and Climate.
+                Notably, my dedication to assisting students behind in reading,
+                writing, math, and science has consistently propelled them to
+                achieve academic progress, ensuring they reach their full
+                potential by the end of each year.
+              </p>
+              {/* <div className="skill-lt">
                 <h6>HTML5</h6>
                 <div className="skill-bar">
                   <div className="skill-bar-in" style={{ width: "92%" }}>
                     <span data-toggle="tooltip" title="92%" />
                   </div>
                 </div>
-              </div>
+              </div> */}
               {/* /skill */}
-              <div className="skill-lt">
+              {/* <div className="skill-lt">
                 <h6>WordPress</h6>
                 <div className="skill-bar">
                   <div className="skill-bar-in" style={{ width: "72%" }}>
                     <span data-toggle="tooltip" title="72%" />
                   </div>
                 </div>
-              </div>
+              </div> */}
               {/* /skill */}
-              <div className="skill-lt">
+              {/* <div className="skill-lt">
                 <h6>Magento</h6>
                 <div className="skill-bar">
                   <div className="skill-bar-in" style={{ width: "86%" }}>
                     <span data-toggle="tooltip" title="86%" />
                   </div>
                 </div>
-              </div>
+              </div> */}
               {/* /skill */}
-              <div className="skill-lt">
+              {/* <div className="skill-lt">
                 <h6>UI/UX</h6>
                 <div className="skill-bar">
                   <div className="skill-bar-in" style={{ width: "88%" }}>
                     <span data-toggle="tooltip" title="88%" />
                   </div>
                 </div>
-              </div>
+              </div> */}
               {/* /skill */}
             </div>
           </div>

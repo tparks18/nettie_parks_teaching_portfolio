@@ -17,7 +17,7 @@ const Demo = () => {
               <div className="col-md-12 col-lg-9 text-center">
                 <div className="text-center">
                   <h1 className="mb-4 font-weight-bold text-white">
-                    Sergio – Portfolio/CV/Resume React NextJS Template.
+                    Nettie Parks – Portfolio/CV/Resume React NextJS Template.
                   </h1>
                   <div className="btn-bar p-15px-t">
                     <a href="#" className="px-btn px-btn-theme">
