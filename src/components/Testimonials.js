@@ -45,21 +45,20 @@ const Testimonials = () => {
           </div>
           <div className="media-body">
             <p>
-              My daughter Amy is in Ms. Parks&apos; 3rd grade class. She is a
+              My daughter Amy is in Ms. Parks&apos; 3rd-grade class. She is a
               fabulous teacher. This review is long overdue as she was
               Julia&apos;s(my other daughter) teacher two years ago. She remains
-              Julia&apos;s favorite teacher to this day. But two years ago, all
-              we heard about is what a great teacher Mrs. Parks is. With online
-              school, I was able to see more of what Julia has been bragging
-              about her. I do not know when Ms. Parks sleeps. She is so thorough
-              with every assignment for Amy and to imagine she does that for all
-              her students is uneblievable. She explains everything so well and
-              she makes the lessons so interesting that I find myself learning
-              too! From US History, to Geography, and so much more. She went out
-              of her way to have a meeting with me to talk about Amy&apos;s
-              progress and spent 45 minutes with me! I just don&apos;t have
-              enough words to truly describe what an incredible teacher she is!
-              I thank her for all that she does.
+              Julia&apos;s favorite teacher to this day. But two years ago, we
+              all heard about what a great teacher Mrs. Parks is. With online
+              school, I could see more of what Julia has been bragging about
+              her. I do not know when Ms. Parks sleeps. She is thorough with
+              every assignment for Amy; imagining she does that for all her
+              students is unbelievable. She explains everything well and makes
+              the lessons so interesting that I learn too! She went out of her
+              way to meet with me to discuss Amy&apos;s progress and spent 45
+              minutes with me! I don&apos;t have enough words to describe what
+              an incredible teacher she is truly! I thank her for all that she
+              does.
             </p>
             <h6>Allison</h6>
             <span>Parent</span>
@@ -77,9 +76,9 @@ const Testimonials = () => {
           </div>
           <div className="media-body">
             <p>
-              Jenny has grow leaps and bounds under Ms. Parks! I will be forever
-              grateful for her role in helping raise such a great thinker. Thank
-              you Ms. Parks!
+              Jenny has grown leaps and bounds under Ms. Parks! I will forever
+              be grateful for her helping raise such a great thinker. Thank you,
+              Ms. Parks!
             </p>
             <h6>Sarah</h6>
             <span>Parent</span>
@@ -97,8 +96,8 @@ const Testimonials = () => {
           </div>
           <div className="media-body">
             <p>
-              Ms. Parks has been wonderful with her support and help, it makes
-              me feel so supported so that I can survive and persist to the end!
+              Ms. Parks has been wonderful with her support and help. It makes
+              me feel so supported that I can survive and persist to the end!
               She is a great teacher with the best students!
             </p>
             <h6>Maria</h6>
@@ -179,9 +178,9 @@ const Testimonials = () => {
               For teacher appreciation week I chose to write about Ms. Parks
               because I had the funnest and best time with her as my teacher.
               When she was my teacher, I felt like she was family. She is the
-              best teacher and my favorite teacher. When she was my teacher, I
+              best and my favorite teacher. When she was my teacher, I
               wanted to live at school to see and talk to her everyday because
-              of how kind and amazing she is. Whenever she walks in a room, she
+              of how kind and amazing she is. Whenever she walks into a room, she
               brings so many people joy. She is the best teacher anyone could
               ask for.
             </p>
