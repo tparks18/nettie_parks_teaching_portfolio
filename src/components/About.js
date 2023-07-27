@@ -66,9 +66,9 @@ const About = () => {
                   <a className="px-btn px-btn-theme" href="#contactus">
                     <span>Contact Me</span>
                   </a>
-                  <a className="px-btn px-btn-theme" href="#work">
+                  {/* <a className="px-btn px-btn-theme" href="#work">
                     <span>Portfolio</span>
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>

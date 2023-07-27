@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <Fragment>
       <Head>
-        <title>Nettie Parks Portfolio</title>
+        <title>Nettie Parks Tutoring Services</title>
         {/* <!-- Favicon --> */}
 
         {/* <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
