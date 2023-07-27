@@ -44,7 +44,7 @@ const Index = () => {
                   <Image
                     src="/static/img/teacher-glow-icon.png"
                     title=""
-                    alt=""
+                    alt="green image of apple on book"
                     width={800}
                     height={800}
                   />

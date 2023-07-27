@@ -14,8 +14,8 @@ const About = () => {
                 <div className="img-in">
                   <Image
                     src="/static/img/student-glow-icon.png"
-                    title=""
-                    alt=""
+                    title="glowing icon of student"
+                    alt="green image of stick figure at a desk with a graduation cap"
                     width={800}
                     height={800}
                   />

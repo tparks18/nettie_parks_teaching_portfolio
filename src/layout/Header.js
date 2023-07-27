@@ -41,8 +41,8 @@ const Header = ({ blog }) => {
               <div className="img">
                 <Image
                   src="/static/img/nettie-picture.jpg"
-                  title=""
-                  alt=""
+                  title="photo of Nettie Parks"
+                  alt="photo of Nettie Parks"
                   width={100}
                   height={100}
                 />

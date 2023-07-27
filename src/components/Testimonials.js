@@ -37,8 +37,8 @@ const Testimonials = () => {
           <div className="avatar">
             <Image
               src="/static/img/parent.png"
-              title=""
-              alt=""
+              title="parent icon"
+              alt="stick figure of parent holding stick figure child"
               width={499}
               height={518}
             />
@@ -68,8 +68,8 @@ const Testimonials = () => {
           <div className="avatar">
             <Image
               src="/static/img/parent.png"
-              title=""
-              alt=""
+              title="parent icon"
+              alt="stick figure of parent holding stick figure child"
               width={499}
               height={518}
             />
@@ -88,8 +88,8 @@ const Testimonials = () => {
           <div className="avatar">
             <Image
               src="/static/img/parent.png"
-              title=""
-              alt=""
+              title="parent icon"
+              alt="stick figure of parent holding stick figure child"
               width={499}
               height={518}
             />
@@ -108,8 +108,8 @@ const Testimonials = () => {
           <div className="avatar">
             <Image
               src="/static/img/studenticon.png"
-              title=""
-              alt=""
+              title="student icon"
+              alt="stick figure representing student reading an open book"
               width={443}
               height={478}
             />
@@ -127,8 +127,8 @@ const Testimonials = () => {
           <div className="avatar">
             <Image
               src="/static/img/studenticon.png"
-              title=""
-              alt=""
+              title="student icon"
+              alt="stick figure representing student reading an open book"
               width={443}
               height={478}
             />
@@ -147,8 +147,8 @@ const Testimonials = () => {
           <div className="avatar">
             <Image
               src="/static/img/studenticon.png"
-              title=""
-              alt=""
+              title="student icon"
+              alt="stick figure representing student reading an open book"
               width={443}
               height={478}
             />
@@ -167,8 +167,8 @@ const Testimonials = () => {
           <div className="avatar">
             <Image
               src="/static/img/studenticon.png"
-              title=""
-              alt=""
+              title="student icon"
+              alt="stick figure representing student reading an open book"
               width={443}
               height={478}
             />
@@ -178,11 +178,10 @@ const Testimonials = () => {
               For teacher appreciation week I chose to write about Ms. Parks
               because I had the funnest and best time with her as my teacher.
               When she was my teacher, I felt like she was family. She is the
-              best and my favorite teacher. When she was my teacher, I
-              wanted to live at school to see and talk to her everyday because
-              of how kind and amazing she is. Whenever she walks into a room, she
-              brings so many people joy. She is the best teacher anyone could
-              ask for.
+              best and my favorite teacher. When she was my teacher, I wanted to
+              live at school to see and talk to her everyday because of how kind
+              and amazing she is. Whenever she walks into a room, she brings so
+              many people joy. She is the best teacher anyone could ask for.
             </p>
             <h6>Barbara</h6>
             <span>Former student and tutee</span>
