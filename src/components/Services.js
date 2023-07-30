@@ -25,6 +25,9 @@ const Services = () => {
                   I can assist students with math topics such as Common Core
                   Math, Number Sense, Problem Solving, Interpreting Data,
                   Fractions and Decimals, and Geometry.
+                  <br />
+                  <br />
+                  <br />
                 </p>
               </div>
             </div>
@@ -37,6 +40,11 @@ const Services = () => {
                 <p>
                   I can assist students with study skills and give them
                   strategies to prepare for reading and math tests.
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+                  <br />
                 </p>
               </div>
             </div>
@@ -47,11 +55,11 @@ const Services = () => {
               <div className="feature-content media-body">
                 <h5>Writing</h5>
                 <p>
-                  I can assist students with writing complete sentences and
-                  using correct mechanics such as capitalization, punctuation,
-                  spelling, and grammar. Additionally, I can help them structure
-                  essays in paragraphs and teach narrative, expository, and
-                  persuasive writing.
+                  I can help students with sentence construction, proper
+                  mechanics (capitalization, punctuation, spelling, and
+                  grammar), and organizing essays into paragraphs. Moreover, I
+                  offer guidance on narrative, expository, and persuasive
+                  writing.
                 </p>
               </div>
             </div>
@@ -65,6 +73,10 @@ const Services = () => {
                   I can assist students with Literature, Informational Text,
                   Grammar, Foundational Skills, Reading-Fluency, and
                   Comprehension.
+                  <br />
+                  <br />
+                  <br />
+                  <br />
                 </p>
               </div>
             </div>
@@ -77,6 +89,10 @@ const Services = () => {
                 <p>
                   I can assist students with understanding Forces, Life Science,
                   Environments and Survival, Weather, and Climate.
+                  <br />
+                  <br />
+                  <br />
+                  <br />
                 </p>
               </div>
             </div>
@@ -90,6 +106,10 @@ const Services = () => {
                   I can assist students with social studies topics such as
                   Evaluating Sources and Using Evidence, Civic and Political
                   Institutions, and Geography.
+                  <br />
+                  <br />
+                  <br />
+                  <br />
                 </p>
               </div>
             </div>

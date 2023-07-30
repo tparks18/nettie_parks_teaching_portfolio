@@ -142,10 +142,6 @@ const Demo = () => {
               <div className="col-lg-10">
                 <span>You are at the right step now</span>
                 <div className="clearfix" />
-                <h3 className="text-white p-30px-b">
-                  Purchase The <span className="theme-color">sergio</span> and
-                  Make Your Own Bootstrap Based Landing Page Templates.
-                </h3>
                 <div className="clearfix" />
                 <a href="#" className="px-btn px-btn-theme">
                   <span>Buy Now</span>
