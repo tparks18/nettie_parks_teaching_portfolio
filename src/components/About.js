@@ -29,7 +29,7 @@ const About = () => {
                 <h3>About me</h3>
               </div>
               <div className="about-text">
-                <h3>{`I'm`} an educator with over 30 years of experience. </h3>
+                <h3>I am an educator with over 30 years of experience. </h3>
                 <p>
                   I am a passionate and dedicated teacher committed to shaping
                   young minds and empowering students to reach their full
@@ -97,7 +97,7 @@ const About = () => {
             <div className="skills-box">
               <h3>My skills</h3>
               <p>
-                As a skilled educator, I can guide students in honing their
+                As a skilled educator, I can guide students in sharpening their
                 writing skills, including sentence construction, grammar,
                 punctuation, and proper mechanics. Additionally, I am proficient
                 in coaching them on crafting well-structured essays across
@@ -111,11 +111,11 @@ const About = () => {
               <p>
                 Moreover, I have a proven track record of helping students excel
                 in Literature, Informational Text, Grammar, Foundational Skills,
-                Reading-Fluency, and Comprehension. In science education, I have
+                Reading Fluency, and Comprehension. In science education, I have
                 successfully aided students in understanding Forces, Life
                 Science, Environments and Survival, Weather, and Climate.
-                Notably, my dedication to assisting students behind in reading,
-                writing, math, and science has consistently propelled them to
+                Notably, my dedication to assisting students who are trying to catch up in reading,
+                writing, math, science, and social studies has consistently propelled them to
                 achieve academic progress, ensuring they reach their full
                 potential by the end of each year.
               </p>

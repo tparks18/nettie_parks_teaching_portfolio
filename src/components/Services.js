@@ -13,7 +13,7 @@ const Services = () => {
     >
       <div className="container">
         <div className="title">
-          <h3>Subjects I Can Assist With</h3>
+          <h3>I can assist your scholar in the following areas:</h3>
         </div>
         <div className="row">
           <div className="col-sm-6 m-15px-tb">
@@ -71,7 +71,7 @@ const Services = () => {
                 <h5>English</h5>
                 <p>
                   I can assist students with Literature, Informational Text,
-                  Grammar, Foundational Skills, Reading-Fluency, and
+                  Grammar, Foundational Skills, Reading Fluency, and
                   Comprehension.
                   <br />
                   <br />

@@ -9,13 +9,13 @@ const Contact = () => {
     >
       <div className="container">
         <div className="title">
-          <h3>Get in touch</h3>
+          <h3>Get in touch:</h3>
         </div>
         <div className="row">
           <div className="col-lg-7 col-xl-8 m-15px-tb">
             <div className="contact-info">
               <h4>I would love to help you! Get in touch.</h4>
-              <p>I am always available for tutoring. Feel free to contact me.</p>
+              <p>Please contact me to check my availability.</p>
               <ul>
                 <li className="media">
                   <i className="ti-map" />

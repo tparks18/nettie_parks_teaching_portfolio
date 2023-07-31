@@ -120,7 +120,7 @@ const Testimonials = () => {
               you in 4th grade.
             </p>
             <h6>Tony</h6>
-            <span>Former student and tutee</span>
+            <span>Former student</span>
           </div>
         </SwiperSlide>
         <SwiperSlide className="testimonial-01 media">
@@ -140,7 +140,7 @@ const Testimonials = () => {
               you cheered me up all the way.
             </p>
             <h6>Jessica</h6>
-            <span>Former student and tutee</span>
+            <span>Former student</span>
           </div>
         </SwiperSlide>
         <SwiperSlide className="testimonial-01 media">
@@ -184,7 +184,7 @@ const Testimonials = () => {
               many people joy. She is the best teacher anyone could ask for.
             </p>
             <h6>Barbara</h6>
-            <span>Former student and tutee</span>
+            <span>Former student</span>
           </div>
         </SwiperSlide>
       </Swiper>

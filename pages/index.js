@@ -28,7 +28,7 @@ const Index = () => {
                     I am a passionate <TypingAnimation />
                   </p>
                   <p className="desc">
-                    Dedicated teacher and tutor inspiring minds, transforming
+                    Dedicated teacher and tutor, inspiring minds, transforming
                     lives with over 30 years of experience, fostering growth,
                     resilience, and success.
                   </p>
