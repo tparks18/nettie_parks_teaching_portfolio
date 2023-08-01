@@ -15,7 +15,7 @@ const Header = ({ blog }) => {
         <div className="d-flex">
           <div className="navbar-brand">
             <Link href="/">
-              <a className="logo-text">Nettie Parks Tutoring</a>
+              <a className="logo-text">Nettie Parks: Tutoring</a>
             </Link>
           </div>
           <button
