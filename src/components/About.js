@@ -82,14 +82,10 @@ const About = () => {
           <div className="col-lg-4 m-15px-tb">
             <ul className="aducation-box">
               <li>
-                <span>1989-1993</span>
                 <h6>Master of Education</h6>
-                <p>Loyola University of Chicago</p>
               </li>
               <li>
-                <span>1985-1989</span>
                 <h6>BA English Literature and Classics</h6>
-                <p>Williams College</p>
               </li>
             </ul>
           </div>
