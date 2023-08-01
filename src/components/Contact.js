@@ -23,12 +23,14 @@ const Contact = () => {
                 </li>
                 <li className="media">
                   <i className="ti-email" />
-                  <span className="media-body">parksplacetutoring@gmail.com</span>
+                  <span className="media-body">
+                    parksplacetutoring@gmail.com
+                  </span>
                 </li>
-                {/* <li className="media">
+                <li className="media">
                   <i className="ti-mobile" />
-                  <span className="media-body">+044 9696 9696 3636</span>
-                </li> */}
+                  <span className="media-body">&#40;708&#41; 789-9829</span>
+                </li>
               </ul>
             </div>
           </div>
