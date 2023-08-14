@@ -76,7 +76,7 @@ const Services = () => {
                   <br />
                   <br />
                   <br />
-                  <br />
+                
                 </p>
               </div>
             </div>
@@ -102,14 +102,14 @@ const Services = () => {
               <i className="icon theme-bg ti-world" />
               <div className="feature-content media-body">
                 <h5>Social Studies</h5>
-                <p>
+                <p className='mb-53'>
                   I can assist students with social studies topics such as
                   Evaluating Sources and Using Evidence, Civic and Political
                   Institutions, and Geography.
                   <br />
                   <br />
-                  <br />
-                  <br />
+                  <br /> 
+                  <br /> 
                 </p>
               </div>
             </div>
