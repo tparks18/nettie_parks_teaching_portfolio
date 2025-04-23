@@ -29,7 +29,7 @@ const Contact = () => {
                 </li>
                 <li className="media">
                   <i className="ti-mobile" />
-                  <span className="media-body">&#40;708&#41; 789-9829</span>
+                  <span className="media-body">&#40;312&#41; 330-4488</span>
                 </li>
               </ul>
             </div>
